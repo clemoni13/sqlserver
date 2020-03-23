@@ -1,1 +1,2 @@
-this is a test document, oh yes
+this is a test document, oh yes.
+another test
